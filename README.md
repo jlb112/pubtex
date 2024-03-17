@@ -38,3 +38,4 @@ You also get this nice front page for free :)
 | `handouts`    | Space-separated list of Beamer files that handouts should be generated for |             |
 | `publish_dir` | The directory that should be published with GitHub Pages                   | `dist`      |
 | `index_page`  | Path to the Markdown file that should be the main page                     | `README.md` |
+| `pre_compile_command`  | Command to run before compiling LaTeX sources                     | `tlmgr update --self && tlmgr update --all` |
