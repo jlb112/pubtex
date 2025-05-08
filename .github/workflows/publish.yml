@@ -16,5 +16,6 @@ jobs:
           files: |
             examples/paper.tex
             examples/slides.tex
+            examples/action_download_template_template=awesome-resume-cv-overleaf/writing.tex
           handouts: |
             examples/slides.tex
